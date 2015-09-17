@@ -133,11 +133,12 @@ a.pure-button-primary {
 
 .splash-container {
     background: #1f8dd6;
+    /*background-image:  url(../../img/congruent_pentagon.png);*/
     z-index: 1;
     overflow: hidden;
     /*The following styles are required for the "scroll-over" effect */
     width: 100%;
-    height: 88%;
+    height: 78%;
     top: 0;
     left: 0;
     position: absolute !important;
@@ -181,11 +182,11 @@ a.pure-button-primary {
 .content-wrapper {
     /* These styles are required for the "scroll-over" effect */
     position: absolute;
-    top: 87%;
+    top: 71.6%;
     width: 100%;
     min-height: 12%;
     z-index: 2;
-    background: white;
+    background: cyan;
 
 }
 
